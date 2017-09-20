@@ -4,7 +4,10 @@
 using namespace std;
 
 unsigned int cociente(unsigned int a, unsigned int b) {
-    return 0;
+    if (b==0)
+        return a;
+
+    return ;
 }
 
 
