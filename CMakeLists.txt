@@ -21,5 +21,5 @@ add_executable(04_MCD ${SOURCE_FILES_04})
 set(SOURCE_FILES_05 05_Digitos/main.cpp 05_Digitos/digitos.cpp 05_Digitos/digitos.h)
 add_executable(05_Digitos ${SOURCE_FILES_05})
 
-#set(SOURCE_FILES_06 06_Tiempo/main.cpp)
-#add_executable(06_Tiempo  ${SOURCE_FILES_06})
+set(SOURCE_FILES_06 06_repaso/repaso_01.cpp)
+add_executable(06_repaso_01 ${SOURCE_FILES_06})
