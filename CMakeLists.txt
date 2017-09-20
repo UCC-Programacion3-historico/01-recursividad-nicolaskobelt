@@ -23,3 +23,6 @@ add_executable(05_Digitos ${SOURCE_FILES_05})
 
 set(SOURCE_FILES_06 06_repaso/repaso_01.cpp)
 add_executable(06_repaso_01 ${SOURCE_FILES_06})
+
+set(SOURCE_FILES_06 06_repaso/repaso_02.cpp)
+add_executable(06_repaso_02 ${SOURCE_FILES_06})

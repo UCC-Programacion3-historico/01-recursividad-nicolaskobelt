@@ -1,0 +1,6 @@
+#ifndef INC_01_RECURSIVIDAD_REPASO_02_H
+#define INC_01_RECURSIVIDAD_REPASO_02_H
+
+int producto (int a, int b);
+
+#endif //INC_01_RECURSIVIDAD_REPASO_02_H
